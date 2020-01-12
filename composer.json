@@ -1,0 +1,16 @@
+{
+    "name": "updev/mooc_entities",
+    "type": "library",
+    "description": "Pacote de Entidades do Mooc",
+    "keywords": ["MOOC","Education","EAD"],
+    "homepage": "https://www.eppquixada.com.br",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antonio Jose",
+            "email": "antoniojose@eppquixada.com.br",
+            "homepage": "https://www.eppquixada.com.br",
+            "role": "Developer"
+        }
+    ],
+}
